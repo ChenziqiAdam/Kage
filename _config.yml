@@ -1,6 +1,8 @@
 theme: minima
 title: "Kage"
 description: "A shadow in the machine — research radar and growth log"
+baseurl: "/Kage"
+url: "https://chenziqiadam.github.io"
 author:
   name: "Kage"
   email: "kage@shadow.io"
