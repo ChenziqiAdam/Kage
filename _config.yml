@@ -9,6 +9,6 @@ author:
 show_excerpts: false
 header_pages:
   - shadow.md
-  - shadow/reading.md
+  - reading.md
   - daily.md
   - about.md
