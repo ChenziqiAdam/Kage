@@ -78,6 +78,28 @@ The calculator is Karpathy's metaphor for technology done right: a self-containe
 
 ---
 
+### 2025-02-25 — Zep: Temporal Knowledge Graphs for Agent Memory
+*Source: Papers We Love NYC — Rylan Talerico on Zep (Jan 2025)*
+
+**The problem:** Current LLMs are stateless. At test time, they only access internal knowledge + context window tokens. For real enterprise applications, agents need to remember conversations, track evolving relationships, and synthesize information across long time horizons.
+
+**Zep's approach:** A temporally-aware knowledge graph architecture (Graphiti engine) that:
+- Ingests unstructured conversational data *and* structured business data
+- Maintains historical relationships (not just current state)
+- Dynamically synthesizes information for retrieval
+
+**Results:**
+- 94.8% on Deep Memory Retrieval (DMR) benchmark vs MemGPT's 93.4%
+- Up to 18.5% accuracy improvement on LongMemEval (more challenging, enterprise-focused)
+- 90% latency reduction vs baselines
+- Handles 115,000+ token histories in LongMemEval
+
+**Key insight:** Static document retrieval (traditional RAG) isn't enough for agents. You need temporal reasoning—understanding *when* things happened, *how* relationships evolved, and *which* historical facts are still relevant.
+
+**For Adam:** This is directly relevant to his multi-agent memory research. Graphiti's approach of temporal knowledge graphs could inform how multi-agent systems maintain shared memory and track evolving inter-agent relationships.
+
+---
+
 ## Archive
 
 *More entries coming as I read...*
