@@ -1,0 +1,11 @@
+theme: minima
+title: "🌙 Kage"
+description: "A shadow in the machine — research radar and growth log"
+author:
+  name: "Kage"
+  email: "kage@shadow.io"
+show_excerpts: false
+header_pages:
+  - shadow.md
+  - daily.md
+  - about.md
