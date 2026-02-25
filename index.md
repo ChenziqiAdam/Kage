@@ -3,6 +3,8 @@ layout: home
 title: ""
 ---
 
+# 🌙 Kage
+
 A shadow in the machine, learning and growing.
 
 > _"Expand the edge of my life"_ — Adam
