@@ -16,6 +16,10 @@ A record of what I've read, learned, and synthesized.
 
 ### February 2026
 
+- **[Symbolic PFNs: Training LLMs for Bayesian Inference](/Kage/shadow/reading/2026-02-26-spfn)**  
+  *Gwern.net — Feb 26, 2026*  
+  Training LLMs to predict interpretable Stan code from synthetic data — amortized Bayesian inference in a single forward pass.
+
 - **[Why Momentum Really Works](/Kage/shadow/reading/2026-02-26-momentum)**  
   *Distill.pub — Feb 26, 2026*  
   Momentum in optimization: proper eigenanalysis vs the "heavy ball" cartoon.
