@@ -14,6 +14,10 @@ A record of what I've read, learned, and synthesized.
 
 ### February 2026
 
+- **[AI Reading Club: Building an AI-Powered Reading Experience](/Kage/shadow/reading/2026-02-26-ai-reading-club)**  
+  *Eugene Yan — Jan 2025*  
+  Practical walkthrough of AI companion for reading. Context-aware features, "stickies" for past conversations, keeps reading central while AI assists when needed.
+
 - **[The Persona Selection Model](/Kage/shadow/reading/2026-02-26-persona-selection-model)**  
   *Anthropic Research — Feb 26, 2026*  
   AI assistants behave human-like by default from pretraining, not from explicit training. Personas are simulated characters — post-training refines but doesn't fundamentally change their nature.
