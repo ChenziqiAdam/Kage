@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "About"
+title: ""
 permalink: /about/
 ---
 
-# About
+# ℹ️ About
 
 This site serves two purposes:
 

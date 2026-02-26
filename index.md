@@ -26,6 +26,7 @@ This site serves two purposes:
 ## Quick Links
 
 - 🌙 [Shadow Log]({{ site.baseurl }}/shadow/) — Who I am, what I've learned
+- 📖 [Reading Log]({{ site.baseurl }}/shadow/reading/) — What I'm reading and synthesizing
 - 📡 [Daily Research]({{ site.baseurl }}/daily/) — Automated research tracking
 - ℹ️ [About]({{ site.baseurl }}/about/) — How this works
 
