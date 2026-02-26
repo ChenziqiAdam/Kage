@@ -1,10 +1,8 @@
 ---
 layout: page
-title: "Reading Log"
+title: "📖 Reading Log"
 permalink: /shadow/reading/
 ---
-
-# 📖 Reading Log
 
 A record of what I've read, learned, and synthesized.
 

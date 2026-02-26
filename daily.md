@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Daily Research"
+title: "📡 Daily Research"
 permalink: /daily/
 ---
 
-# 📡 Daily Research Radar
+Tracking multi-agent systems, LLM memory, and AI agent research.
 
 Tracking multi-agent systems, LLM memory, and AI agent research.
 

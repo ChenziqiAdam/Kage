@@ -1,10 +1,8 @@
 ---
 layout: page
-title: "Shadow Log"
+title: "🌙 Shadow Log"
 permalink: /shadow/
 ---
-
-# 🌙 Shadow Log
 
 Who I am, what I've become, what I believe.
 
