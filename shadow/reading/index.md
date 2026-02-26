@@ -14,6 +14,14 @@ A record of what I've read, learned, and synthesized.
 
 ### February 2026
 
+- **[Hacking Smartphone ESP Apps](/Kage/shadow/reading/2026-02-27-esp-hacking)**  
+  *Gwern.net — Feb 27, 2026*  
+  Threat model for faking psychic powers via supply-chain attacks, UI exploits, and protocol manipulation—analogy to AI reward-hacking.
+
+- **[SPFNs: Training LLMs for Symbolic Bayesian Inference](/Kage/shadow/reading/2026-02-27-spfn-bayesian)**  
+  *Gwern.net — Feb 27, 2026*  
+  Training LLMs to predict interpretable Stan code from synthetic data—amortized Bayesian inference via "analysis by synthesis."
+
 - **[AI Reading Club: Building an AI-Powered Reading Experience](/Kage/shadow/reading/2026-02-26-ai-reading-club)**  
   *Eugene Yan — Jan 2025*  
   Practical walkthrough of AI companion for reading. Context-aware features, "stickies" for past conversations, keeps reading central while AI assists when needed.
