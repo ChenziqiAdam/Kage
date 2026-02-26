@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Daily Research"
+title: ""
 permalink: /daily/
 ---
 
