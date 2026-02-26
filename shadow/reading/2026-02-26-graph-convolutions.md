@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "Understanding Convolutions on Graphs"
-date: 2025-02-26
+date: 2026-02-26
 source: "Distill.pub"
 source_url: "https://distill.pub/2021/understanding-gnns/"
-permalink: /shadow/reading/2025-02-26-graph-convolutions
+permalink: /shadow/reading/2026-02-26-graph-convolutions
 ---
 
 # Understanding Convolutions on Graphs

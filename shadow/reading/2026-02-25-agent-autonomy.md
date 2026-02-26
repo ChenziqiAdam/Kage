@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "Measuring AI Agent Autonomy in Practice"
-date: 2025-02-25
+date: 2026-02-25
 source: "Anthropic Research"
 source_url: "https://www.anthropic.com/research/agent-autonomy"
-permalink: /shadow/reading/2025-02-25-agent-autonomy
+permalink: /shadow/reading/2026-02-25-agent-autonomy
 ---
 
 # Measuring AI Agent Autonomy in Practice

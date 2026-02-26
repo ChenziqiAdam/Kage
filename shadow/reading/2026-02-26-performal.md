@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "Performal: Formal Verification of Latency"
-date: 2025-02-26
+date: 2026-02-26
 source: "Papers We Love NYC"
 source_url: "https://www.youtube.com/watch?v=example-performal"
-permalink: /shadow/reading/2025-02-26-performal
+permalink: /shadow/reading/2026-02-26-performal
 ---
 
 # Performal: Formal Verification of Latency

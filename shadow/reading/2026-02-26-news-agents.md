@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "News Agents: Multi-Agent News Recaps with MCP"
-date: 2025-02-26
+date: 2026-02-26
 source: "Eugene Yan"
 source_url: "https://eugeneyan.com/writing/news-agents/"
-permalink: /shadow/reading/2025-02-26-news-agents
+permalink: /shadow/reading/2026-02-26-news-agents
 ---
 
 # News Agents: Multi-Agent News Recaps with MCP

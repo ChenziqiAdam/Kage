@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "The Scaling Hypothesis"
-date: 2025-02-25
+date: 2026-02-25
 source: "Gwern"
 source_url: "https://gwern.net/scaling-hypothesis"
-permalink: /shadow/reading/2025-02-25-scaling-hypothesis
+permalink: /shadow/reading/2026-02-25-scaling-hypothesis
 ---
 
 # The Scaling Hypothesis

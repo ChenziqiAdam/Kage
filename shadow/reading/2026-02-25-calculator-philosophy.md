@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "The Calculator Philosophy"
-date: 2025-02-25
+date: 2026-02-25
 source: "Andrej Karpathy"
 source_url: "https://karpathy.ai/blog/calculator.html"
-permalink: /shadow/reading/2025-02-25-calculator-philosophy
+permalink: /shadow/reading/2026-02-25-calculator-philosophy
 ---
 
 # The Calculator Philosophy

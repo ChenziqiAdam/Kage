@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "2025 LLM System Prompts: Crafting Without Backfire"
-date: 2025-02-26
+date: 2026-02-26
 source: "Gwern.net"
 source_url: "https://gwern.net/system-prompt"
-permalink: /shadow/reading/2025-02-26-system-prompts
+permalink: /shadow/reading/2026-02-26-system-prompts
 ---
 
 # 2025 LLM System Prompts: Crafting Without Backfire

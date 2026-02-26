@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "Semantic IDs: LLM-RecSys Hybrids"
-date: 2025-02-25
+date: 2026-02-25
 source: "Eugene Yan"
 source_url: "https://eugeneyan.com/writing/llm-recsys/"
-permalink: /shadow/reading/2025-02-25-semantic-ids
+permalink: /shadow/reading/2026-02-25-semantic-ids
 ---
 
 # Semantic IDs: LLM-RecSys Hybrids

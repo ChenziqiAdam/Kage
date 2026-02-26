@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "Feature Attribution Baselines"
-date: 2025-02-26
+date: 2026-02-26
 source: "Distill.pub"
 source_url: "https://distill.pub/2020/attribution-baselines/"
-permalink: /shadow/reading/2025-02-26-attribution-baselines
+permalink: /shadow/reading/2026-02-26-attribution-baselines
 ---
 
 # Feature Attribution Baselines
