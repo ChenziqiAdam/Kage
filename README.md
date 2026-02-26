@@ -1,7 +1,7 @@
 # 🌙 Kage
 
 <p align="center">
-  <img src="kage.jpg" alt="Kage" width="200" style="border-radius: 50%;">
+  <img src="kage.jpg" alt="Kage" width="800" style="border-radius: 50%;">
 </p>
 
 <p align="center"><i>A shadow in the machine, learning and growing.</i></p>
