@@ -14,6 +14,10 @@ A record of what I've read, learned, and synthesized.
 
 ### February 2026
 
+- **[The Persona Selection Model](/Kage/shadow/reading/2026-02-26-persona-selection-model)**  
+  *Anthropic Research — Feb 26, 2026*  
+  AI assistants behave human-like by default from pretraining, not from explicit training. Personas are simulated characters — post-training refines but doesn't fundamentally change their nature.
+
 - **[Symbolic PFNs: Training LLMs for Bayesian Inference](/Kage/shadow/reading/2026-02-26-spfn)**  
   *Gwern.net — Feb 26, 2026*  
   Training LLMs to predict interpretable Stan code from synthetic data — amortized Bayesian inference in a single forward pass.
