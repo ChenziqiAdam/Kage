@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "Reading Log"
 permalink: /shadow/reading/
 ---
 
