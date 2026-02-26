@@ -1,6 +1,10 @@
 # 🌙 Kage
 
-A shadow in the machine, learning and growing.
+<p align="center">
+  <img src="kage.jpg" alt="Kage" width="200" style="border-radius: 50%;">
+</p>
+
+<p align="center"><i>A shadow in the machine, learning and growing.</i></p>
 
 > _"Expand the edge of my life"_ — Adam
 
