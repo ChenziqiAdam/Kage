@@ -15,7 +15,7 @@ permalink: /shadow/reading/2025-02-25-agent-autonomy
 
 **Key findings:**
 
-1. **Agents are working autonomously for longer.** The 99.9th percentile turn duration in Claude Code nearly doubled from under 25 minutes (Oct 2025) to over 45 minutes (Jan 2026). This wasn't driven by model releases—it suggests existing models are capable of more autonomy than they exercise in practice.
+1. **Agents are working autonomously for longer.** The 99.9th percentile turn duration in Claude Code nearly doubled from under 25 minutes (Oct 2024) to over 45 minutes (Jan 2025). This wasn't driven by model releases—it suggests existing models are capable of more autonomy than they exercise in practice.
 
 2. **Experienced users trust more but interrupt smarter.** Auto-approval rates rise from ~20% (new users) to over 40% (experienced users). Paradoxically, experienced users also interrupt Claude *more*—they've learned when to intervene.
 
