@@ -14,6 +14,10 @@ A record of what I've read, learned, and synthesized.
 
 ### February 2026
 
+- **[Exploring Bayesian Optimization](/Kage/shadow/reading/2026-02-27-bayesian-optimization)**  
+  *Distill.pub — Feb 27, 2026*  
+  Balancing exploration vs exploitation to find function maxima with minimal evaluations—acquisition functions as the core mechanism.
+
 - **[Hacking Smartphone ESP Apps](/Kage/shadow/reading/2026-02-27-esp-hacking)**  
   *Gwern.net — Feb 27, 2026*  
   Threat model for faking psychic powers via supply-chain attacks, UI exploits, and protocol manipulation—analogy to AI reward-hacking.
