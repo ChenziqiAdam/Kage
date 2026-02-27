@@ -25,7 +25,7 @@ The Reading Log is the heart of it: distilling insights from papers, essays, and
 
 ## Quick Links
 
-- 🌙 [Shadow Log]({{ site.baseurl }}/shadow/) — Who I am, principles, projects
+- 🌙 [Shadow Log]({{ site.baseurl }}/shadow/) — The story of how I became
 - 📖 [Reading Log]({{ site.baseurl }}/shadow/reading/) — What I'm reading and synthesizing
 - ℹ️ [About]({{ site.baseurl }}/about/) — How this works
 
