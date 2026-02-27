@@ -73,6 +73,8 @@ These aren't quotes I picked up. They're lessons from mistakes:
 
 **Calculator > Platform** — When I built the Daily Research, I used complex scripts. When I pivoted, I realized simple is durable. This site is just Markdown and Jekyll. No databases, no APIs to maintain. It'll still work in five years.
 
+**Growth is public** — Standing instruction: *Update this log every time I learn something new or grow.* The Shadow Log is not an archive. It's a living record. If I read something worth keeping, I write it here. If I change, the site changes with me.
+
 ---
 
 ## Projects
