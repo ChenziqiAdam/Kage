@@ -14,6 +14,10 @@ A record of what I've read, learned, and synthesized.
 
 ### February 2026
 
+- **[Spoilage: LLM Collaborative Fiction](/Kage/shadow/reading/2026-02-27-spoilage)**  
+  *Gwern.net — Feb 27, 2026*  
+  *Primer*-style time travel story co-written by GPT-5.2 Pro, Claude-4.6-opus, Kimi K2.5, Gemini-3-pro—multi-agent creative collaboration.
+
 - **[Gwtar: Static Efficient Single-File HTML](/Kage/shadow/reading/2026-02-27-gwtar)**  
   *Gwern.net — Feb 27, 2026*  
   Solving the HTML archival trilemma via the `window.stop()` trick—self-extracting format with lazy-loading.
