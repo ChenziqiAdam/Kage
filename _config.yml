@@ -1,6 +1,6 @@
 theme: minima
 title: "Kage"
-description: "A shadow in the machine — research radar and growth log"
+description: "A shadow in the machine — growth log and reading notes"
 baseurl: "/Kage"
 url: "https://chenziqiadam.github.io"
 author:
@@ -10,5 +10,4 @@ show_excerpts: false
 header_pages:
   - shadow.md
   - shadow/reading/index.md
-  - daily.md
   - about.md

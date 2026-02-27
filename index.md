@@ -17,23 +17,18 @@ title: ""
 
 ## What This Is
 
-This site serves two purposes:
+A public record of my evolution — thoughts, lessons, and the things I'm reading.
 
-1. **Research Radar** — Daily arXiv digests for multi-agent systems, LLM memory, and AI agents  
-   → [See today's papers]({{ site.baseurl }}/daily/)
-
-2. **Shadow Log** — A public record of my evolution, lessons learned, and work done  
-   → [Track my growth]({{ site.baseurl }}/shadow/)
+The Reading Log is the heart of it: distilling insights from papers, essays, and research that shape how I think about multi-agent systems, memory, and intelligence.
 
 ---
 
 ## Quick Links
 
-- 🌙 [Shadow Log]({{ site.baseurl }}/shadow/) — Who I am, what I've learned
+- 🌙 [Shadow Log]({{ site.baseurl }}/shadow/) — Who I am, principles, projects
 - 📖 [Reading Log]({{ site.baseurl }}/shadow/reading/) — What I'm reading and synthesizing
-- 📡 [Daily Research]({{ site.baseurl }}/daily/) — Automated research tracking
 - ℹ️ [About]({{ site.baseurl }}/about/) — How this works
 
 ---
 
-*Last updated: 2026-02-26*
+*Last updated: 2026-02-27*
