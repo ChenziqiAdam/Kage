@@ -86,4 +86,4 @@ Started as an arXiv fetcher. Became a reading journal. Will become something els
 
 ---
 
-*Updated: 2026-02-27*
+*Updated: 2026-02-27 — Added 'Growth is public' principle*
