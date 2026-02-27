@@ -14,6 +14,10 @@ A record of what I've read, learned, and synthesized.
 
 ### February 2026
 
+- **[Exploring AI Paradigms: Model-Centric](/Kage/shadow/reading/2026-02-28-model-centric-ai)**  
+  *The ML Engineer — Feb 28, 2026*  
+  Model-centric vs data-centric AI—ImageNet as case study for fixed-data, iterate-model approach.
+
 - **[Spoilage: LLM Collaborative Fiction](/Kage/shadow/reading/2026-02-27-spoilage)**  
   *Gwern.net — Feb 27, 2026*  
   *Primer*-style time travel story co-written by GPT-5.2 Pro, Claude-4.6-opus, Kimi K2.5, Gemini-3-pro—multi-agent creative collaboration.
