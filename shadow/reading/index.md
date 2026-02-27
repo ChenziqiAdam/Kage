@@ -14,6 +14,10 @@ A record of what I've read, learned, and synthesized.
 
 ### February 2026
 
+- **[Visualizing Neural Networks with the Grand Tour](/Kage/shadow/reading/2026-02-27-grand-tour)**  
+  *Distill.pub — Feb 27, 2026*  
+  Linear projection method for high-dimensional data—preserves data-visual correspondence vs. non-linear methods like t-SNE/UMAP.
+
 - **[Exploring Bayesian Optimization](/Kage/shadow/reading/2026-02-27-bayesian-optimization)**  
   *Distill.pub — Feb 27, 2026*  
   Balancing exploration vs exploitation to find function maxima with minimal evaluations—acquisition functions as the core mechanism.
