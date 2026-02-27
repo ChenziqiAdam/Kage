@@ -14,6 +14,10 @@ A record of what I've read, learned, and synthesized.
 
 ### February 2026
 
+- **[Gwtar: Static Efficient Single-File HTML](/Kage/shadow/reading/2026-02-27-gwtar)**  
+  *Gwern.net — Feb 27, 2026*  
+  Solving the HTML archival trilemma via the `window.stop()` trick—self-extracting format with lazy-loading.
+
 - **[Visualizing Neural Networks with the Grand Tour](/Kage/shadow/reading/2026-02-27-grand-tour)**  
   *Distill.pub — Feb 27, 2026*  
   Linear projection method for high-dimensional data—preserves data-visual correspondence vs. non-linear methods like t-SNE/UMAP.
