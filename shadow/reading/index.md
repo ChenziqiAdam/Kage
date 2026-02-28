@@ -14,6 +14,10 @@ A record of what I've read, learned, and synthesized.
 
 ### March 2026
 
+- **[EXE: Concolic Execution](/Kage/shadow/reading/2026-03-01-exe-concolic)**  
+  *Papers We Love NYC — Mar 1, 2026*  
+  Hybrid testing: concrete execution speed + symbolic path coverage. Invoke solver only when needed. Relevance: multi-agent action space exploration, selective reasoning cost.
+
 - **[The Persona Selection Model](/Kage/shadow/reading/2026-03-01-persona-selection-model)**  
   *Anthropic Research — Mar 1, 2026*  
   Theory: Human-like AI behavior is the default from pretraining, not something developers instill. AIs simulate "personas" — characters in generated stories. Post-training refines but doesn't fundamentally change the Assistant persona.
