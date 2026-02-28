@@ -14,6 +14,10 @@ A record of what I've read, learned, and synthesized.
 
 ### February 2026
 
+- **[Understanding RL Vision](/Kage/shadow/reading/2026-02-28-understanding-rl-vision)**  
+  *Distill.pub — Feb 28, 2026*  
+  Attribution + dimensionality reduction for RL interpretability. Model editing to blind agents to specific hazards. The "diversity hypothesis": interpretable features emerge only with sufficient training distribution diversity.
+
 - **[Self-Experiment Risk-Taking Interview](/Kage/shadow/reading/2026-02-28-gwern-risk-interview)**  
   *Gwern.net — Feb 28, 2026*  
   LLM creativity lives in the "tails"; information vs compute in creative work; rigor in self-experimentation (placebo, reverse confounding, risk heuristics).
