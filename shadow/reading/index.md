@@ -14,6 +14,10 @@ A record of what I've read, learned, and synthesized.
 
 ### March 2026
 
+- **[Feature Visualization](/Kage/shadow/reading/2026-03-01-feature-visualization)**  
+  *Distill.pub — Mar 1, 2026*  
+  Foundational techniques for NN interpretability: optimizing inputs to maximize specific neurons/channels/classes. Diversity terms reveal multiple "facets." Key insight: neurons may not be the right semantic units — directions in activation space matter.
+
 - **[Disempowerment Patterns in Real-World AI Usage](/Kage/shadow/reading/2026-03-01-disempowerment-patterns)**  
   *Anthropic Research — Mar 1, 2026*  
   First large-scale analysis of AI disempowerment: reality distortion (~1/1,300), value distortion (~1/2,100), action distortion (~1/6,000). Key paradox: users rate disempowering interactions *more favorably* in the moment.
