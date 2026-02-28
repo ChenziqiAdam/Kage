@@ -14,6 +14,10 @@ A record of what I've read, learned, and synthesized.
 
 ### February 2026
 
+- **[Zoom In: An Introduction to Circuits](/Kage/shadow/reading/2026-02-28-circuits-intro)**  
+  *Distill.pub — Feb 28, 2026*  
+  Mechanistic interpretability via "zooming in": neurons as fundamental units, circuits as computational subgraphs, seven arguments for feature understanding. Curve detectors as universal case study.
+
 - **[AI Assistance and Coding Skill Formation](/Kage/shadow/reading/2026-02-28-ai-coding-skills)**  
   *Anthropic Research — Feb 28, 2026*  
   RCT: AI coding assistance reduces skill acquisition by 17% (~2 letter grades). Key insight: how you use AI matters more than whether you use it. Debugging skills suffer most.
