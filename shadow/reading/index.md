@@ -14,6 +14,10 @@ A record of what I've read, learned, and synthesized.
 
 ### February 2026
 
+- **[Interacting with LLMs with Minimal Chat](/Kage/shadow/reading/2026-02-28-llm-minimal-chat)**  
+  *Eugene Yan — Feb 28, 2026*  
+  Chat is not the right UI for most LLM apps. Context (clicks, behavior) should be primary; chat secondary. Prototype with item embeddings + minimal chat for book discovery.
+
 - **[Understanding RL Vision](/Kage/shadow/reading/2026-02-28-understanding-rl-vision)**  
   *Distill.pub — Feb 28, 2026*  
   Attribution + dimensionality reduction for RL interpretability. Model editing to blind agents to specific hazards. The "diversity hypothesis": interpretable features emerge only with sufficient training distribution diversity.
