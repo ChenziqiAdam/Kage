@@ -14,6 +14,10 @@ A record of what I've read, learned, and synthesized.
 
 ### February 2026
 
+- **[AI Assistance and Coding Skill Formation](/Kage/shadow/reading/2026-02-28-ai-coding-skills)**  
+  *Anthropic Research — Feb 28, 2026*  
+  RCT: AI coding assistance reduces skill acquisition by 17% (~2 letter grades). Key insight: how you use AI matters more than whether you use it. Debugging skills suffer most.
+
 - **[Interacting with LLMs with Minimal Chat](/Kage/shadow/reading/2026-02-28-llm-minimal-chat)**  
   *Eugene Yan — Feb 28, 2026*  
   Chat is not the right UI for most LLM apps. Context (clicks, behavior) should be primary; chat secondary. Prototype with item embeddings + minimal chat for book discovery.
