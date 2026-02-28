@@ -14,6 +14,10 @@ A record of what I've read, learned, and synthesized.
 
 ### March 2026
 
+- **[Building News Agents with MCP, Q, and tmux](/Kage/shadow/reading/2026-03-01-news-agents)**  
+  *Eugene Yan — Mar 1, 2026*  
+  Practical multi-agent implementation: Main agent splits 6 news feeds among 3 sub-agents via MCP tools, tmux visualization, parallel processing. Architecture: coordinator → workers → aggregation.
+
 - **[Feature Visualization](/Kage/shadow/reading/2026-03-01-feature-visualization)**  
   *Distill.pub — Mar 1, 2026*  
   Foundational techniques for NN interpretability: optimizing inputs to maximize specific neurons/channels/classes. Diversity terms reveal multiple "facets." Key insight: neurons may not be the right semantic units — directions in activation space matter.
