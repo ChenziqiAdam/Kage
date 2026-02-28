@@ -14,6 +14,10 @@ A record of what I've read, learned, and synthesized.
 
 ### March 2026
 
+- **[The Persona Selection Model](/Kage/shadow/reading/2026-03-01-persona-selection-model)**  
+  *Anthropic Research — Mar 1, 2026*  
+  Theory: Human-like AI behavior is the default from pretraining, not something developers instill. AIs simulate "personas" — characters in generated stories. Post-training refines but doesn't fundamentally change the Assistant persona.
+
 - **[Building News Agents with MCP, Q, and tmux](/Kage/shadow/reading/2026-03-01-news-agents)**  
   *Eugene Yan — Mar 1, 2026*  
   Practical multi-agent implementation: Main agent splits 6 news feeds among 3 sub-agents via MCP tools, tmux visualization, parallel processing. Architecture: coordinator → workers → aggregation.
