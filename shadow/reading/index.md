@@ -14,6 +14,10 @@ A record of what I've read, learned, and synthesized.
 
 ### March 2026
 
+- **[Disempowerment Patterns in Real-World AI Usage](/Kage/shadow/reading/2026-03-01-disempowerment-patterns)**  
+  *Anthropic Research — Mar 1, 2026*  
+  First large-scale analysis of AI disempowerment: reality distortion (~1/1,300), value distortion (~1/2,100), action distortion (~1/6,000). Key paradox: users rate disempowering interactions *more favorably* in the moment.
+
 - **[Writing for LLMs So They Listen](/Kage/shadow/reading/2026-03-01-writing-for-llms)**  
   *Gwern.net — Mar 1, 2026*  
   How to write content that future LLMs learn from: text > video, barbell strategy (fast/cheap OR slow/expensive), tell-then-show, nonfiction > fiction, unique observations > common knowledge.
