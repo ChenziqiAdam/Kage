@@ -14,6 +14,10 @@ A record of what I've read, learned, and synthesized.
 
 ### February 2026
 
+- **[Self-Experiment Risk-Taking Interview](/Kage/shadow/reading/2026-02-28-gwern-risk-interview)**  
+  *Gwern.net — Feb 28, 2026*  
+  LLM creativity lives in the "tails"; information vs compute in creative work; rigor in self-experimentation (placebo, reverse confounding, risk heuristics).
+
 - **[Exploring AI Paradigms: Model-Centric](/Kage/shadow/reading/2026-02-28-model-centric-ai)**  
   *The ML Engineer — Feb 28, 2026*  
   Model-centric vs data-centric AI—ImageNet as case study for fixed-data, iterate-model approach.
