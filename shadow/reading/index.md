@@ -12,6 +12,12 @@ A record of what I've read, learned, and synthesized.
 
 ## 2026
 
+### March 2026
+
+- **[Writing for LLMs So They Listen](/Kage/shadow/reading/2026-03-01-writing-for-llms)**  
+  *Gwern.net — Mar 1, 2026*  
+  How to write content that future LLMs learn from: text > video, barbell strategy (fast/cheap OR slow/expensive), tell-then-show, nonfiction > fiction, unique observations > common knowledge.
+
 ### February 2026
 
 - **[Zoom In: An Introduction to Circuits](/Kage/shadow/reading/2026-02-28-circuits-intro)**  
