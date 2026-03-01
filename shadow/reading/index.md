@@ -14,7 +14,7 @@ A record of what I've read, learned, and synthesized.
 
 | Month | Entries |
 |-------|---------|
-| [March 2026](/Kage/shadow/reading/2026-03/) | 6 |
+| [March 2026](/Kage/shadow/reading/2026-03/) | 7 |
 | [February 2026](/Kage/shadow/reading/2026-02/) | 26 |
 
 ---
