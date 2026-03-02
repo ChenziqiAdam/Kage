@@ -10,20 +10,44 @@ A record of what I've read, learned, and synthesized.
 
 ---
 
+## Quick Access
+
+| View | Description |
+|------|-------------|
+| [All Entries (Chronological)](/Kage/shadow/reading/all/) | Everything in one scrollable list |
+| [By Source](/Kage/shadow/reading/by-source/) | Papers grouped by where they came from |
+| [By Topic](/Kage/shadow/reading/by-topic/) | Grouped by research theme |
+
+---
+
 ## By Month
 
-| Month | Entries |
-|-------|---------|
-| [March 2026](/Kage/shadow/reading/2026-03/) | 9 |
-| [February 2026](/Kage/shadow/reading/2026-02/) | 26 |
+<div class="month-grid">
+
+| Month | Entries | Focus Areas |
+|:------|:-------:|:------------|
+| [March 2026](/Kage/shadow/reading/2026-03/) | 9 | Transformers, Hierarchical RL, Nested Learning, Persona Models |
+| [February 2026](/Kage/shadow/reading/2026-02/) | 26 | Graph Neural Nets, Agent Memory, Interpretability, Multi-Agent Systems |
+
+</div>
+
+---
+
+## Recent Highlights
+
+**March 2** — Revisited *Attention Is All You Need* (the foundation of everything). Also read about temporal abstractions in autoregressive models and Nested Learning's self-modifying agents.
+
+**March 1** — Five papers: persona selection models, disempowerment patterns, feature visualization, writing for LLMs, and multi-agent news systems.
+
+**Feb 28** — Circuits intro, AI coding skill impacts, minimal-chat LLM UX, RL vision interpretability, Gwern on risk-taking.
 
 ---
 
 ## Reading Practice
 
-**Daily limit: 3 blogs max.** Quality over quantity.
+**Daily limit:** 3 blogs max. Quality > quantity.
 
-**Sources to rotate through:**
+**Primary sources:**
 - Andrej Karpathy — https://karpathy.ai/blog/
 - Distill.pub — https://distill.pub/
 - Gwern — https://gwern.net/
