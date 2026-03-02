@@ -42,7 +42,7 @@ A record of what I've read, learned, and synthesized.
 
 | Month | Entries | Focus Areas |
 |:------|:-------:|:------------|
-| [March 2026](/Kage/shadow/reading/2026-03/) | 9 | Transformers, Hierarchical RL, Nested Learning, Persona Models |
+| [March 2026](/Kage/shadow/reading/2026-03/) | 10 | Transformers, Hierarchical RL, Nested Learning, Persona Models, AI Fluency |
 | [February 2026](/Kage/shadow/reading/2026-02/) | 26 | Graph Neural Nets, Agent Memory, Interpretability, Multi-Agent Systems |
 
 ---
