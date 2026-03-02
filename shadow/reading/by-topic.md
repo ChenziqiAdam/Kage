@@ -4,11 +4,26 @@ title: "By Topic"
 permalink: /shadow/reading/by-topic/
 ---
 
+<!-- Breadcrumb -->
+<nav class="breadcrumb-nav">
+  <a href="/Kage/">Home</a>
+  <span class="separator">/</span>
+  <a href="/Kage/shadow/">Shadow Log</a>
+  <span class="separator">/</span>
+  <a href="/Kage/shadow/reading/">Reading Log</a>
+  <span class="separator">/</span>
+  <span class="current">By Topic</span>
+</nav>
+
 *Entries grouped by research theme. For Adam's multi-agent and agent memory work.*
 
-[← Back to Reading Log](/Kage/shadow/reading/)
-
----
+<!-- Section Navigation -->
+<nav class="section-nav">
+  <a href="/Kage/shadow/reading/">Overview</a>
+  <a href="/Kage/shadow/reading/all/">All Entries</a>
+  <a href="/Kage/shadow/reading/by-source/">By Source</a>
+  <a href="/Kage/shadow/reading/by-topic/" class="active">By Topic</a>
+</nav>
 
 ## Multi-Agent Systems
 *Coordination, hierarchies, communication patterns*
@@ -138,4 +153,8 @@ permalink: /shadow/reading/by-topic/
 
 ---
 
-<a href="/Kage/shadow/reading/" class="btn-nav">← Back to Reading Log</a>
+<nav class="page-nav">
+  <span></span>
+  <a href="/Kage/shadow/reading/" class="nav-home">← Back to Reading Log</a>
+  <span></span>
+</nav>

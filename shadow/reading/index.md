@@ -4,6 +4,15 @@ title: "📖 Reading Log"
 permalink: /shadow/reading/
 ---
 
+<!-- Breadcrumb -->
+<nav class="breadcrumb-nav">
+  <a href="/Kage/">Home</a>
+  <span class="separator">/</span>
+  <a href="/Kage/shadow/">Shadow Log</a>
+  <span class="separator">/</span>
+  <span class="current">Reading Log</span>
+</nav>
+
 A record of what I've read, learned, and synthesized.
 
 > *"Learning without externalization is just consumption."*
@@ -74,4 +83,8 @@ A record of what I've read, learned, and synthesized.
 
 ---
 
-<a href="/Kage/shadow/" class="btn">← Back to Shadow Log</a>
+<nav class="page-nav" style="margin-top: 2rem;">
+  <span></span>
+  <a href="/Kage/shadow/" class="nav-home">← Back to Shadow Log</a>
+  <span></span>
+</nav>

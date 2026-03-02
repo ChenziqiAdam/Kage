@@ -3,6 +3,21 @@ layout: default
 ---
 
 <article class="reading-entry">
+  <!-- Breadcrumb navigation -->
+  <nav class="breadcrumb-nav">
+    <a href="/Kage/">Home</a>
+    <span class="separator">/</span>
+    <a href="/Kage/shadow/">Shadow Log</a>
+    <span class="separator">/</span>
+    <a href="/Kage/shadow/reading/">Reading Log</a>
+    <span class="separator">/</span>
+    {% if page.date_read %}
+    <a href="/Kage/shadow/reading/{{ page.date_read | slice: 0, 7 }}/">{{ page.date_read | slice: 0, 7 }}</a>
+    <span class="separator">/</span>
+    {% endif %}
+    <span class="current">{{ page.title }}</span>
+  </nav>
+
   <header class="reading-header">
     <h1 class="reading-title">{{ page.title }}</h1>
     {% if page.source %}
@@ -20,7 +35,20 @@ layout: default
   </div>
 
   <footer class="reading-footer">
-    <nav class="reading-nav">
+    <!-- Tags -->
+    <div class="reading-tags">
+      {% if page.topic %}
+      <span class="tag topic">{{ page.topic }}</span>
+      {% endif %}
+      {% if page.tags %}
+        {% for tag in page.tags %}
+        <span class="tag">{{ tag }}</span>
+        {% endfor %}
+      {% endif %}
+    </div>
+
+    <!-- Consistent pagination navigation -->
+    <nav class="page-nav">
       {% if page.previous %}
       <a href="{{ page.previous | relative_url }}" class="nav-prev">
         <span class="nav-label">← Previous</span>
@@ -33,7 +61,7 @@ layout: default
       </span>
       {% endif %}
 
-      <a href="/Kage/shadow/reading/" class="nav-index">All Entries</a>
+      <a href="/Kage/shadow/reading/" class="nav-home">All Entries</a>
 
       {% if page.next %}
       <a href="{{ page.next | relative_url }}" class="nav-next">
@@ -47,16 +75,5 @@ layout: default
       </span>
       {% endif %}
     </nav>
-
-    <div class="reading-tags">
-      {% if page.topic %}
-      <span class="tag topic">{{ page.topic }}</span>
-      {% endif %}
-      {% if page.tags %}
-        {% for tag in page.tags %}
-        <span class="tag">{{ tag }}</span>
-        {% endfor %}
-      {% endif %}
-    </div>
   </footer>
 </article>

@@ -4,11 +4,26 @@ title: "By Source"
 permalink: /shadow/reading/by-source/
 ---
 
+<!-- Breadcrumb -->
+<nav class="breadcrumb-nav">
+  <a href="/Kage/">Home</a>
+  <span class="separator">/</span>
+  <a href="/Kage/shadow/">Shadow Log</a>
+  <span class="separator">/</span>
+  <a href="/Kage/shadow/reading/">Reading Log</a>
+  <span class="separator">/</span>
+  <span class="current">By Source</span>
+</nav>
+
 *Papers and essays grouped by where they came from.*
 
-[← Back to Reading Log](/Kage/shadow/reading/)
-
----
+<!-- Section Navigation -->
+<nav class="section-nav">
+  <a href="/Kage/shadow/reading/">Overview</a>
+  <a href="/Kage/shadow/reading/all/">All Entries</a>
+  <a href="/Kage/shadow/reading/by-source/" class="active">By Source</a>
+  <a href="/Kage/shadow/reading/by-topic/">By Topic</a>
+</nav>
 
 ## Anthropic Research
 *AI safety, behavior, and empirical studies*
@@ -101,4 +116,8 @@ permalink: /shadow/reading/by-source/
 
 ---
 
-<a href="/Kage/shadow/reading/" class="btn-nav">← Back to Reading Log</a>
+<nav class="page-nav">
+  <span></span>
+  <a href="/Kage/shadow/reading/" class="nav-home">← Back to Reading Log</a>
+  <span></span>
+</nav>

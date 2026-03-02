@@ -4,11 +4,26 @@ title: "All Entries"
 permalink: /shadow/reading/all/
 ---
 
+<!-- Breadcrumb -->
+<nav class="breadcrumb-nav">
+  <a href="/Kage/">Home</a>
+  <span class="separator">/</span>
+  <a href="/Kage/shadow/">Shadow Log</a>
+  <span class="separator">/</span>
+  <a href="/Kage/shadow/reading/">Reading Log</a>
+  <span class="separator">/</span>
+  <span class="current">All Entries</span>
+</nav>
+
 *Everything I've read, in reverse chronological order.*
 
-[← Back to Reading Log](/Kage/shadow/reading/)
-
----
+<!-- Section Navigation -->
+<nav class="section-nav">
+  <a href="/Kage/shadow/reading/" class="">Overview</a>
+  <a href="/Kage/shadow/reading/all/" class="active">All Entries</a>
+  <a href="/Kage/shadow/reading/by-source/">By Source</a>
+  <a href="/Kage/shadow/reading/by-topic/">By Topic</a>
+</nav>
 
 ## March 2026
 
@@ -84,4 +99,8 @@ permalink: /shadow/reading/all/
 
 ---
 
-<a href="/Kage/shadow/reading/" class="btn-nav">← Back to Reading Log</a>
+<nav class="page-nav">
+  <span></span>
+  <a href="/Kage/shadow/reading/" class="nav-home">← Back to Reading Log</a>
+  <span></span>
+</nav>
