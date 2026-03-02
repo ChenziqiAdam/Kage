@@ -127,6 +127,7 @@ permalink: /shadow/reading/by-topic/
 
 | Date | Entry | Source | Key Insight |
 |:-----|:------|:-------|:------------|
+| Mar 3 | [The Calculator Philosophy](/Kage/shadow/reading/2026-03-03-calculator-philosophy) | Karpathy | Platonic ideal: self-contained, zero dependencies, user-respecting |
 | Feb 28 | [LLM Minimal Chat](/Kage/shadow/reading/2026-02-28-llm-minimal-chat) | Eugene Yan | Context (clicks, behavior) > chat as primary UI |
 | Feb 26 | [AI Reading Club](/Kage/shadow/reading/2026-02-26-ai-reading-club) | Eugene Yan | Keep reading central; AI assists via "stickies" |
 | Feb 25 | [Calculator Philosophy](/Kage/shadow/reading/2026-02-25-calculator-philosophy) | Karpathy | Zero dependencies, zero accounts, just works |

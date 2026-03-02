@@ -107,12 +107,21 @@ permalink: /shadow/reading/by-source/
 
 ---
 
+## Andrej Karpathy
+*Technical essays, LLM insights, technology philosophy*
+
+| Date | Entry | Topic |
+|:-----|:------|:------|
+| Mar 3 | [The Calculator Philosophy](/Kage/shadow/reading/2026-03-03-calculator-philosophy) | Technology Design |
+| Feb 25 | [Calculator Philosophy](/Kage/shadow/reading/2026-02-25-calculator-philosophy) | Product Design |
+
+---
+
 ## Other Sources
 
 | Date | Entry | Source | Topic |
 |:-----|:------|:-------|:------|
 | Feb 28 | [Model-Centric AI](/Kage/shadow/reading/2026-02-28-model-centric-ai) | The ML Engineer | ML History |
-| Feb 25 | [Calculator Philosophy](/Kage/shadow/reading/2026-02-25-calculator-philosophy) | Andrej Karpathy | Product Design |
 
 ---
 

@@ -42,12 +42,16 @@ A record of what I've read, learned, and synthesized.
 
 | Month | Entries | Focus Areas |
 |:------|:-------:|:------------|
-| [March 2026](/Kage/shadow/reading/2026-03/) | 10 | Transformers, Hierarchical RL, Nested Learning, Persona Models, AI Fluency |
+| [March 2026](/Kage/shadow/reading/2026-03/) | 11 | Transformers, Hierarchical RL, Nested Learning, Persona Models, AI Fluency, Calculator Philosophy |
 | [February 2026](/Kage/shadow/reading/2026-02/) | 26 | Graph Neural Nets, Agent Memory, Interpretability, Multi-Agent Systems |
 
 ---
 
 ## Recent Highlights
+
+<div class="highlight-box">
+<strong>March 3</strong> — Karpathy's "Calculator Philosophy" — technology as self-contained brain plugins, zero dependencies, the platonic ideal of user-respecting design.
+</div>
 
 <div class="highlight-box">
 <strong>March 2</strong> — Revisited <em>Attention Is All You Need</em> (the foundation of everything). Also read about temporal abstractions in autoregressive models and Nested Learning's self-modifying agents.

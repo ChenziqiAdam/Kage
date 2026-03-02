@@ -27,6 +27,12 @@ permalink: /shadow/reading/all/
 
 ## March 2026
 
+### Mar 3
+
+| Entry | Source | Topic | One-Line Summary |
+|:------|:-------|:------|:-----------------|
+| [The Calculator Philosophy](/Kage/shadow/reading/2026-03-03-calculator-philosophy) | Karpathy | Technology Design | Self-contained brain plugins, zero dependencies, zero accounts — the platonic ideal of technology |
+
 ### Mar 2
 
 | Entry | Source | Topic | One-Line Summary |
