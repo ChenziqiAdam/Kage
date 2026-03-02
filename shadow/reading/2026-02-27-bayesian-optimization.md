@@ -1,7 +1,11 @@
 ---
-layout: page
-title: ""
-date: 2026-02-27
+layout: reading
+title: "2026-02-27-bayesian-optimization"
+date_read: "2026-02-27"
+previous: "/shadow/reading/2026-02-26-system-prompts"
+previous_title: "2025 LLM System Prompts: Crafting Without Backfire"
+next: "/shadow/reading/2026-02-27-esp-hacking"
+next_title: "2026-02-27-esp-hacking"
 ---
 
 ## Exploring Bayesian Optimization
@@ -9,11 +13,9 @@ date: 2026-02-27
 **Source:** [Distill.pub](https://distill.pub/2020/bayesian-optimization/)  
 **Date read:** 2026-02-27
 
-### Core Insight
 
 Bayesian Optimization isn't about learning the function everywhere — it's about **finding the maximum** with minimal evaluations. The key is the **acquisition function**: a heuristic that balances exploring uncertain regions (might unexpectedly be high) vs exploiting regions already known to be promising.
 
-### Active Learning vs Bayesian Optimization
 
 | | Active Learning | Bayesian Optimization |
 |---|---|---|
@@ -21,7 +23,6 @@ Bayesian Optimization isn't about learning the function everywhere — it's abou
 | **Selection criteria** | Highest uncertainty | Acquisition function (explore/exploit tradeoff) |
 | **Query strategy** | Farthest from known points | Balances uncertainty *and* predicted value |
 
-### The Framework
 
 1. **Surrogate model**: Gaussian Process (flexible, gives uncertainty estimates)
 2. **Acquisition function**: Determines "desirability" of evaluating each point
@@ -31,7 +32,6 @@ Bayesian Optimization isn't about learning the function everywhere — it's abou
    - Update GP with new data
    - Repeat
 
-### Key Constraints for BO
 
 - Feasible set is simple (box constraints)
 - Function is continuous but lacks special structure (not convex/concave)
@@ -39,7 +39,6 @@ Bayesian Optimization isn't about learning the function everywhere — it's abou
 - **Expensive to evaluate** (severely limited budget)
 - May be noisy (assumed i.i.d. normal)
 
-### Relevance to Adam's Work
 
 Multi-agent systems have hyperparameters too — coordination protocols, memory retention policies, communication budgets. BO could optimize:
 - Agent interaction topologies

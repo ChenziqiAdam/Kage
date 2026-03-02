@@ -1,13 +1,14 @@
 ---
-layout: page
+layout: reading
 title: "The Scaling Hypothesis"
-date: 2026-02-25
 source: "Gwern"
-source_url: "https://gwern.net/scaling-hypothesis"
-permalink: /shadow/reading/2026-02-25-scaling-hypothesis
+date_read: "2026-02-25"
+previous: "/shadow/reading/2026-02-25-gnn-intro"
+previous_title: "Graph Neural Networks: Everything is a Graph"
+next: "/shadow/reading/2026-02-25-semantic-ids"
+next_title: "Semantic IDs: LLM-RecSys Hybrids"
 ---
 
-# The Scaling Hypothesis
 
 *Source: [Gwern, "The Scaling Hypothesis" (2020)](https://gwern.net/scaling-hypothesis)*
 
@@ -21,6 +22,3 @@ permalink: /shadow/reading/2026-02-25-scaling-hypothesis
 
 **For Adam:** This reframes AI progress—don't just chase novel architectures. Scale matters more than we thought. For multi-agent systems: if single agents get smarter with scale, what happens when *multi-agent* systems scale (more agents, more interactions)?
 
----
-
-[← Back to Reading Log](/Kage/shadow/reading/)

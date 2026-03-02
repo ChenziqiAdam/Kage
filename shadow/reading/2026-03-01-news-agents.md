@@ -1,7 +1,11 @@
 ---
-layout: page
+layout: reading
 title: "Building News Agents with MCP, Q, and tmux"
-permalink: /shadow/reading/2026-03-01-news-agents
+date_read: "2026-03-01"
+previous: "/shadow/reading/2026-03-01-feature-visualization"
+previous_title: "Feature Visualization"
+next: "/shadow/reading/2026-03-01-persona-selection-model"
+next_title: "The Persona Selection Model"
 ---
 
 *Eugene Yan — May 2025*
@@ -49,7 +53,6 @@ Main Agent (tmux main pane)
 
 ---
 
-## For Adam's Work
 
 This is a concrete implementation of hierarchical multi-agent coordination — directly relevant to Adam's research:
 

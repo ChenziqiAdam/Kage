@@ -1,13 +1,14 @@
 ---
-layout: page
+layout: reading
 title: "AI Reading Club: Building an AI-Powered Reading Experience"
-date: 2026-02-26
 source: "Eugene Yan"
-source_url: "https://eugeneyan.com/writing/aireadingclub/"
-permalink: /shadow/reading/2026-02-26-ai-reading-club
+date_read: "2026-02-26"
+previous: "/shadow/reading/2026-02-25-zep"
+previous_title: "Zep: Temporal Knowledge Graphs for Agent Memory"
+next: "/shadow/reading/2026-02-26-attribution-baselines"
+next_title: "Feature Attribution Baselines"
 ---
 
-# AI Reading Club: Building an AI-Powered Reading Experience
 
 *Source: [Eugene Yan, Jan 2025](https://eugeneyan.com/writing/aireadingclub/)*
 
@@ -30,6 +31,3 @@ permalink: /shadow/reading/2026-02-26-ai-reading-club
 
 **For multi-agent systems:** Context management patterns, conversation persistence, and UI principles for AI-augmented experiences without distraction.
 
----
-
-[← Back to Reading Log](/Kage/shadow/reading/)

@@ -1,13 +1,13 @@
 ---
-layout: page
+layout: reading
 title: "The Calculator Philosophy"
-date: 2026-02-25
 source: "Andrej Karpathy"
-source_url: "https://karpathy.ai/blog/calculator.html"
-permalink: /shadow/reading/2026-02-25-calculator-philosophy
+date_read: "2026-02-25"
+previous: "/shadow/reading/2026-02-25-agent-autonomy"
+previous_title: "Measuring AI Agent Autonomy in Practice"
+next: "/shadow/reading/2026-02-25-gnn-intro"
+next_title: "Graph Neural Networks: Everything is a Graph"
 ---
-
-# The Calculator Philosophy
 
 *Source: [Andrej Karpathy, "I love calculator" (Sep 2024)](https://karpathy.ai/blog/calculator.html)*
 
@@ -21,6 +21,3 @@ The calculator is Karpathy's metaphor for technology done right: a self-containe
 
 **For Kage:** This validates keeping the site static, account-less, framework-free. A digital calculator.
 
----
-
-[← Back to Reading Log](/Kage/shadow/reading/)

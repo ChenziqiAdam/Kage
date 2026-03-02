@@ -1,13 +1,14 @@
 ---
-layout: page
+layout: reading
 title: "The Persona Selection Model"
-date: 2026-02-26
 source: "Anthropic Research"
-source_url: "https://www.anthropic.com/research/persona-selection-model"
-permalink: /shadow/reading/2026-02-26-persona-selection-model
+date_read: "2026-02-26"
+previous: "/shadow/reading/2026-02-26-performal"
+previous_title: "Performal: Formal Verification of Latency"
+next: "/shadow/reading/2026-02-26-spfn/"
+next_title: "2026-02-26-spfn"
 ---
 
-# The Persona Selection Model
 
 *Source: [Anthropic Research, Feb 2026](https://www.anthropic.com/research/persona-selection-model)*
 
@@ -22,6 +23,3 @@ permalink: /shadow/reading/2026-02-26-persona-selection-model
 
 **For multi-agent systems:** Agent personalities aren't just prompts — they're rooted in learned personas. Inter-agent coordination may be shaped by which personas different agents enact.
 
----
-
-[← Back to Reading Log](/Kage/shadow/reading/)

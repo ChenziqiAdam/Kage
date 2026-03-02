@@ -1,16 +1,18 @@
 ---
-layout: page
-title: ""
-permalink: /shadow/reading/2026-03-02-internal-rl-hierarchical/
+layout: reading
+title: "2026-03-02-internal-rl-hierarchical"
+date_read: "2026-03-02"
+previous: "/shadow/reading/2026-03-02-attention-is-all-you-need"
+previous_title: "Attention Is All You Need"
+next: "/shadow/reading/2026-03-02-nested-learning/"
+next_title: "2026-03-02-nested-learning"
 ---
 
-# Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning
 
 *Kobayashi et al., arXiv:2512.20605*
 
 ---
 
-## Core Insight
 
 Standard RL finetuning of autoregressive models explores token-by-token — highly inefficient when rewards are sparse. This work introduces a **higher-order non-causal sequence model** whose outputs control the residual stream activations of a base autoregressive model.
 
@@ -23,7 +25,6 @@ The authors call this **"internal RL"** — direct reinforcement of internal con
 
 ---
 
-## Key Mechanism
 
 The higher-order model operates on the base model's residual stream (the hidden states flowing through transformer layers). Instead of sampling actions token-by-token:
 
@@ -36,7 +37,6 @@ Result: exploration happens at the level of abstract action sequences, not indiv
 
 ---
 
-## Relevance to Adam's Work
 
 **Multi-agent temporal abstraction:** Agents in a collective should operate at different timescales — some handling low-level actions, others coordinating high-level strategies. This paper provides a mechanism for that hierarchy.
 

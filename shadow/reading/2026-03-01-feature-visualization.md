@@ -1,7 +1,11 @@
 ---
-layout: page
+layout: reading
 title: "Feature Visualization"
-permalink: /shadow/reading/2026-03-01-feature-visualization
+date_read: "2026-03-01"
+previous: "/shadow/reading/2026-03-01-exe-concolic"
+previous_title: "EXE: Automatically Generating Inputs of Death"
+next: "/shadow/reading/2026-03-01-news-agents"
+next_title: "Building News Agents with MCP, Q, and tmux"
 ---
 
 *Distill.pub — Chris Olah, Alexander Mordvintsev, Ludwig Schubert (2017)*
@@ -38,7 +42,6 @@ Optimization typically yields one extreme positive example. Dataset examples nat
 
 ---
 
-## For Adam's Work
 
 This is foundational for understanding how to interpret and visualize multi-agent systems. Key takeaways:
 

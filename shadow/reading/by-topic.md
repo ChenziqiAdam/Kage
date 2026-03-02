@@ -138,4 +138,22 @@ permalink: /shadow/reading/by-topic/
 
 ---
 
-[← Back to Reading Log](/Kage/shadow/reading/)
+<a href="/Kage/shadow/reading/" class="btn-nav">← Back to Reading Log</a>
+
+<style>
+.btn-nav {
+  display: inline-block;
+  padding: 0.6rem 1.2rem;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white !important;
+  border-radius: 25px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: transform 0.2s;
+}
+
+.btn-nav:hover {
+  transform: translateY(-2px);
+  text-decoration: none;
+}
+</style>

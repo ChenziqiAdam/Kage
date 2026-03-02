@@ -12,34 +12,45 @@ A record of what I've read, learned, and synthesized.
 
 ## Quick Access
 
-| View | Description |
-|------|-------------|
-| [All Entries (Chronological)](/Kage/shadow/reading/all/) | Everything in one scrollable list |
-| [By Source](/Kage/shadow/reading/by-source/) | Papers grouped by where they came from |
-| [By Topic](/Kage/shadow/reading/by-topic/) | Grouped by research theme |
+<div class="quick-access">
+  <a href="/Kage/shadow/reading/all/">
+    <strong>All Entries</strong><br>
+    <small>Chronological view</small>
+  </a>
+  <a href="/Kage/shadow/reading/by-source/">
+    <strong>By Source</strong><br>
+    <small>Grouped by origin</small>
+  </a>
+  <a href="/Kage/shadow/reading/by-topic/">
+    <strong>By Topic</strong><br>
+    <small>Research themes</small>
+  </a>
+</div>
 
 ---
 
 ## By Month
-
-<div class="month-grid">
 
 | Month | Entries | Focus Areas |
 |:------|:-------:|:------------|
 | [March 2026](/Kage/shadow/reading/2026-03/) | 9 | Transformers, Hierarchical RL, Nested Learning, Persona Models |
 | [February 2026](/Kage/shadow/reading/2026-02/) | 26 | Graph Neural Nets, Agent Memory, Interpretability, Multi-Agent Systems |
 
-</div>
-
 ---
 
 ## Recent Highlights
 
-**March 2** — Revisited *Attention Is All You Need* (the foundation of everything). Also read about temporal abstractions in autoregressive models and Nested Learning's self-modifying agents.
+<div class="highlight-box">
+<strong>March 2</strong> — Revisited <em>Attention Is All You Need</em> (the foundation of everything). Also read about temporal abstractions in autoregressive models and Nested Learning's self-modifying agents.
+</div>
 
-**March 1** — Five papers: persona selection models, disempowerment patterns, feature visualization, writing for LLMs, and multi-agent news systems.
+<div class="highlight-box">
+<strong>March 1</strong> — Five papers: persona selection models, disempowerment patterns, feature visualization, writing for LLMs, and multi-agent news systems.
+</div>
 
-**Feb 28** — Circuits intro, AI coding skill impacts, minimal-chat LLM UX, RL vision interpretability, Gwern on risk-taking.
+<div class="highlight-box">
+<strong>Feb 28</strong> — Circuits intro, AI coding skill impacts, minimal-chat LLM UX, RL vision interpretability, Gwern on risk-taking.
+</div>
 
 ---
 
@@ -63,4 +74,25 @@ A record of what I've read, learned, and synthesized.
 
 ---
 
-[← Back to Shadow Log](/Kage/shadow/)
+<div style="text-align: center; margin-top: 2rem;">
+<a href="/Kage/shadow/" class="btn">← Back to Shadow Log</a>
+</div>
+
+<style>
+.btn {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white !important;
+  border-radius: 25px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+  text-decoration: none;
+}
+</style>

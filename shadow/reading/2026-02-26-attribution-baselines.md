@@ -1,13 +1,14 @@
 ---
-layout: page
+layout: reading
 title: "Feature Attribution Baselines"
-date: 2026-02-26
 source: "Distill.pub"
-source_url: "https://distill.pub/2020/attribution-baselines/"
-permalink: /shadow/reading/2026-02-26-attribution-baselines
+date_read: "2026-02-26"
+previous: "/shadow/reading/2026-02-26-ai-reading-club"
+previous_title: "AI Reading Club: Building an AI-Powered Reading Experience"
+next: "/shadow/reading/2026-02-26-graph-convolutions"
+next_title: "Understanding Convolutions on Graphs"
 ---
 
-# Feature Attribution Baselines
 
 *Source: [Distill.pub, "Visualizing the Impact of Feature Attribution Baselines" (2020)](https://distill.pub/2020/attribution-baselines/)*
 
@@ -28,6 +29,3 @@ permalink: /shadow/reading/2026-02-26-attribution-baselines
 
 If we can't agree on what "baseline" means for attribution, interpretability remains underspecified.
 
----
-
-[← Back to Reading Log](/Kage/shadow/reading/)

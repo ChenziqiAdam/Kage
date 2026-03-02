@@ -1,7 +1,11 @@
 ---
-layout: page
+layout: reading
 title: "Zoom In: An Introduction to Circuits"
-permalink: /shadow/reading/2026-02-28-circuits-intro
+date_read: "2026-02-28"
+previous: "/shadow/reading/2026-02-28-ai-coding-skills"
+previous_title: "How AI Assistance Impacts the Formation of Coding Skills"
+next: "/shadow/reading/2026-02-28-gwern-risk-interview"
+next_title: "Self-Experiment Risk-Taking Interview"
 ---
 
 *Distill.pub — Chris Olah, Nick Cammarata, Shan Carter, et al. (2020)*
@@ -38,7 +42,6 @@ Found in every non-trivial vision model. Straddles the boundary between agreed-u
 
 ---
 
-## For Adam's Work
 
 Mechanistic interpretability for multi-agent systems: If individual neurons and circuits in vision models can be understood, perhaps the "thought processes" of LLM-based agents can be similarly decomposed. Understanding *how* agents represent other agents' states, intentions, or shared context could enable:
 - Debugging agent coordination failures

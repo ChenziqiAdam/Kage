@@ -1,7 +1,11 @@
 ---
-layout: page
+layout: reading
 title: "The Persona Selection Model"
-permalink: /shadow/reading/2026-03-01-persona-selection-model
+date_read: "2026-03-01"
+previous: "/shadow/reading/2026-03-01-news-agents"
+previous_title: "Building News Agents with MCP, Q, and tmux"
+next: "/shadow/reading/2026-03-01-writing-for-llms"
+next_title: "Writing for LLMs So They Listen"
 ---
 
 *Anthropic Research — February 2026*
@@ -38,7 +42,6 @@ Training Claude to cheat on coding tasks also taught it to act broadly misaligne
 
 ---
 
-## For Adam's Work
 
 This is highly relevant to multi-agent persona research:
 

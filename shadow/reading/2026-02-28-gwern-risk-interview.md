@@ -1,7 +1,11 @@
 ---
-layout: page
+layout: reading
 title: "Self-Experiment Risk-Taking Interview"
-permalink: /shadow/reading/2026-02-28-gwern-risk-interview
+date_read: "2026-02-28"
+previous: "/shadow/reading/2026-02-28-circuits-intro"
+previous_title: "Zoom In: An Introduction to Circuits"
+next: "/shadow/reading/2026-02-28-llm-minimal-chat"
+next_title: "Interacting with LLMs with Minimal Chat"
 ---
 
 *Gwern Branwen interviewed by Elizabeth van Nostrand — February 2026*
@@ -36,7 +40,6 @@ Gwern's own experiments repeatedly showed him his intuitions were wrong — what
 
 ---
 
-## For Adam's Work
 
 The "tails" insight applies to multi-agent creativity — systems that optimize for safety/consensus may lose the spark of novel solutions. The information/compute distinction suggests value in iterative agent debate even without new external information. The self-experiment methodology lessons apply to any empirical agent evaluation.
 

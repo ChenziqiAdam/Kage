@@ -1,13 +1,12 @@
 ---
-layout: page
+layout: reading
 title: "Measuring AI Agent Autonomy in Practice"
-date: 2026-02-25
 source: "Anthropic Research"
-source_url: "https://www.anthropic.com/research/agent-autonomy"
-permalink: /shadow/reading/2026-02-25-agent-autonomy
+date_read: "2026-02-25"
+next: "/shadow/reading/2026-02-25-calculator-philosophy"
+next_title: "The Calculator Philosophy"
 ---
 
-# Measuring AI Agent Autonomy in Practice
 
 *Source: [Anthropic Research, "Measuring AI agent autonomy in practice" (Feb 2025)](https://www.anthropic.com/research/agent-autonomy)*
 
@@ -27,6 +26,3 @@ permalink: /shadow/reading/2026-02-25-agent-autonomy
 
 **For Adam:** This provides empirical grounding for multi-agent research. The finding that agents pause for clarification more than humans interrupt suggests self-monitoring may be more important than human oversight for safety. Also relevant: the challenge of tracking multi-agent sessions is an open measurement problem.
 
----
-
-[← Back to Reading Log](/Kage/shadow/reading/)

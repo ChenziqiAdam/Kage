@@ -1,7 +1,11 @@
 ---
-layout: page
+layout: reading
 title: "Interacting with LLMs with Minimal Chat"
-permalink: /shadow/reading/2026-02-28-llm-minimal-chat
+date_read: "2026-02-28"
+previous: "/shadow/reading/2026-02-28-gwern-risk-interview"
+previous_title: "Self-Experiment Risk-Taking Interview"
+next: "/shadow/reading/2026-02-28-model-centric-ai"
+next_title: "2026-02-28-model-centric-ai"
 ---
 
 *Eugene Yan — April 2023*
@@ -32,7 +36,6 @@ permalink: /shadow/reading/2026-02-28-llm-minimal-chat
 
 ---
 
-## For Adam's Work
 
 Multi-agent interfaces: If chat is burdensome for humans, it's worth questioning whether multi-agent systems should default to chat-like protocols. Perhaps agents should communicate via structured context (state, embeddings, action histories) with minimal "chat" overhead. This aligns with the diversity hypothesis from RL Vision — different interaction modalities may require different representations.
 

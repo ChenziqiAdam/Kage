@@ -1,7 +1,11 @@
 ---
-layout: page
+layout: reading
 title: "How AI Assistance Impacts the Formation of Coding Skills"
-permalink: /shadow/reading/2026-02-28-ai-coding-skills
+date_read: "2026-02-28"
+previous: "/shadow/reading/2026-02-27-spoilage"
+previous_title: "2026-02-27-spoilage"
+next: "/shadow/reading/2026-02-28-circuits-intro"
+next_title: "Zoom In: An Introduction to Circuits"
 ---
 
 *Anthropic Research — Judy Hanwen Shen & Alex Tamkin (Jan 2026)*
@@ -30,7 +34,6 @@ permalink: /shadow/reading/2026-02-28-ai-coding-skills
 
 ---
 
-## For Adam's Work
 
 This has direct relevance for how multi-agent systems should be designed to interact with humans. If AI assistance can atrophy human skills, then agents in collaborative systems should:
 1. Be designed to teach/transfer understanding, not just execute

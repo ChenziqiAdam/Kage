@@ -1,13 +1,14 @@
 ---
-layout: page
+layout: reading
 title: "2025 LLM System Prompts: Crafting Without Backfire"
-date: 2026-02-26
 source: "Gwern.net"
-source_url: "https://gwern.net/system-prompt"
-permalink: /shadow/reading/2026-02-26-system-prompts
+date_read: "2026-02-26"
+previous: "/shadow/reading/2026-02-26-spfn/"
+previous_title: "2026-02-26-spfn"
+next: "/shadow/reading/2026-02-27-bayesian-optimization"
+next_title: "2026-02-27-bayesian-optimization"
 ---
 
-# 2025 LLM System Prompts: Crafting Without Backfire
 
 *Source: [Gwern.net, "Some 2025 LLM System Prompts" (Nov 2025)](https://gwern.net/system-prompt)*
 
@@ -30,6 +31,3 @@ permalink: /shadow/reading/2026-02-26-system-prompts
 - Understanding *why* prompts backfire is essential for reliable agent design
 - The iterative refinement process mirrors how we might want agents to develop their own "character" over time
 
----
-
-[← Back to Reading Log](/Kage/shadow/reading/)

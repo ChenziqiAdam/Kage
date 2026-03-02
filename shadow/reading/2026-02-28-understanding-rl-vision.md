@@ -1,7 +1,11 @@
 ---
-layout: page
+layout: reading
 title: "Understanding RL Vision"
-permalink: /shadow/reading/2026-02-28-understanding-rl-vision
+date_read: "2026-02-28"
+previous: "/shadow/reading/2026-02-28-model-centric-ai"
+previous_title: "2026-02-28-model-centric-ai"
+next: "/shadow/reading/2026-03-01-disempowerment-patterns"
+next_title: "Disempowerment Patterns in Real-World AI Usage"
 ---
 
 *Distill.pub — Jacob Hilton, Nick Cammarata, Shan Carter, Gabriel Goh, Chris Olah (2020)*
@@ -26,7 +30,6 @@ Training on only 100 levels → uninterpretable features (overfitting to memoriz
 
 ---
 
-## For Adam's Work
 
 Multi-agent interpretability: The attribution→editing methodology could apply to understanding what one agent "sees" in another's behavior. The diversity hypothesis suggests that agent populations need sufficient behavioral diversity to develop interpretable representations of each other. For Adam's multi-agent memory research: interpretable agent models are easier to debug, trust, and integrate into cognitive architectures.
 

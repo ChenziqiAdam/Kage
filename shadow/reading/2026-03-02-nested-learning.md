@@ -1,16 +1,16 @@
 ---
-layout: page
-title: ""
-permalink: /shadow/reading/2026-03-02-nested-learning/
+layout: reading
+title: "2026-03-02-nested-learning"
+date_read: "2026-03-02"
+previous: "/shadow/reading/2026-03-02-internal-rl-hierarchical/"
+previous_title: "2026-03-02-internal-rl-hierarchical"
 ---
 
-# The Illusion of Deep Learning Architectures
 
 *Behrouz et al., NeurIPS 2025 — arXiv:2512.24695*
 
 ---
 
-## Core Insight
 
 Proposes **Nested Learning (NL)** — a paradigm where machine learning models are represented as nested, multi-level, and/or parallel optimization problems, each with its own **context flow**.
 
@@ -21,23 +21,18 @@ Through the NL lens:
 
 ---
 
-## Three Contributions
 
-### 1. Expressive Optimizers
 
 Standard optimizers (Adam, SGD with Momentum) are actually **associative memory modules** that compress gradient information via gradient descent. The authors build more expressive optimizers with deep memory and powerful learning rules.
 
-### 2. Self-Modifying Learning Module
 
 A sequence model that learns **how to modify itself** by learning its own update algorithm. The model becomes its own optimizer — continuously self-updating rather than relying on external gradient steps.
 
-### 3. Continuum Memory System
 
 Generalizes the traditional long/short-term memory distinction into a continuous spectrum. Memory is not binary (stored vs forgotten) but exists along a continuum with flexible retrieval mechanisms.
 
 ---
 
-## Hope: A Continual Learning Module
 
 Combining the self-modifying sequence model with the continuum memory system yields **Hope** — showing promising results on:
 - Language modeling
@@ -48,7 +43,6 @@ Combining the self-modifying sequence model with the continuum memory system yie
 
 ---
 
-## Relevance to Adam's Work
 
 **Self-modifying agents:** Agents that learn their own update rules — moving beyond fixed architectures to systems that evolve their own learning mechanisms.
 

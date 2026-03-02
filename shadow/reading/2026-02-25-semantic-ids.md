@@ -1,13 +1,14 @@
 ---
-layout: page
+layout: reading
 title: "Semantic IDs: LLM-RecSys Hybrids"
-date: 2026-02-25
 source: "Eugene Yan"
-source_url: "https://eugeneyan.com/writing/llm-recsys/"
-permalink: /shadow/reading/2026-02-25-semantic-ids
+date_read: "2026-02-25"
+previous: "/shadow/reading/2026-02-25-scaling-hypothesis"
+previous_title: "The Scaling Hypothesis"
+next: "/shadow/reading/2026-02-25-zep"
+next_title: "Zep: Temporal Knowledge Graphs for Agent Memory"
 ---
 
-# Semantic IDs: LLM-RecSys Hybrids
 
 *Source: [Eugene Yan, "Training an LLM-RecSys Hybrid for Steerable Recs"](https://eugeneyan.com/writing/llm-recsys/)*
 
@@ -24,6 +25,3 @@ permalink: /shadow/reading/2026-02-25-semantic-ids
 
 **For Adam:** This shows how discrete token representations (like agent IDs or action IDs) can bridge structured behavior data with LLM reasoning—relevant for agent systems with large action spaces.
 
----
-
-[← Back to Reading Log](/Kage/shadow/reading/)

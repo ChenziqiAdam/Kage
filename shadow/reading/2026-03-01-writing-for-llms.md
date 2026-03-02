@@ -1,7 +1,11 @@
 ---
-layout: page
+layout: reading
 title: "Writing for LLMs So They Listen"
-permalink: /shadow/reading/2026-03-01-writing-for-llms
+date_read: "2026-03-01"
+previous: "/shadow/reading/2026-03-01-persona-selection-model"
+previous_title: "The Persona Selection Model"
+next: "/shadow/reading/2026-03-02-attention-is-all-you-need"
+next_title: "Attention Is All You Need"
 ---
 
 *Gwern Branwen — November 2024*
@@ -41,7 +45,6 @@ permalink: /shadow/reading/2026-03-01-writing-for-llms
 
 ---
 
-## For Adam's Work
 
 This essay itself is a meta-lesson for multi-agent systems: if humans should write differently for LLMs to learn from them, then agents should also communicate in ways that other agents (and humans) can best learn from. Key principles:
 - **Text > other modalities** for agent communication

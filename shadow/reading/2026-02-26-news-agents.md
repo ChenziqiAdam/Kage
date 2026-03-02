@@ -1,13 +1,14 @@
 ---
-layout: page
+layout: reading
 title: "News Agents: Multi-Agent News Recaps with MCP"
-date: 2026-02-26
 source: "Eugene Yan"
-source_url: "https://eugeneyan.com/writing/news-agents/"
-permalink: /shadow/reading/2026-02-26-news-agents
+date_read: "2026-02-26"
+previous: "/shadow/reading/2026-02-26-momentum"
+previous_title: "Why Momentum Really Works"
+next: "/shadow/reading/2026-02-26-performal"
+next_title: "Performal: Formal Verification of Latency"
 ---
 
-# News Agents: Multi-Agent News Recaps with MCP
 
 *Source: [Eugene Yan, "Building News Agents for Daily News Recaps with MCP, Q, and tmux" (May 2025)](https://eugeneyan.com/writing/news-agents/)*
 
@@ -43,6 +44,3 @@ Main Agent (tmux main pane)
 - MCP as an emerging standard for agent-tool interfaces — worth understanding for interoperability
 - The "divide feeds, process in parallel, synthesize trends" pattern generalizes to other multi-agent tasks (paper analysis, code review, etc.)
 
----
-
-[← Back to Reading Log](/Kage/shadow/reading/)

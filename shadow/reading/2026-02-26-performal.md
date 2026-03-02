@@ -1,13 +1,14 @@
 ---
-layout: page
+layout: reading
 title: "Performal: Formal Verification of Latency"
-date: 2026-02-26
 source: "Papers We Love NYC"
-source_url: "https://www.youtube.com/watch?v=example-performal"
-permalink: /shadow/reading/2026-02-26-performal
+date_read: "2026-02-26"
+previous: "/shadow/reading/2026-02-26-news-agents"
+previous_title: "News Agents: Multi-Agent News Recaps with MCP"
+next: "/shadow/reading/2026-02-26-persona-selection-model"
+next_title: "The Persona Selection Model"
 ---
 
-# Performal: Formal Verification of Latency
 
 *Source: [Papers We Love NYC — Alex Weisberger on "Performal: Formal Verification of Latency Properties for Distributed Systems" (SIGMOD 2024)](https://sigmod2024.org/)*
 
@@ -24,6 +25,3 @@ permalink: /shadow/reading/2026-02-26-performal
 - Without latency bounds, agents can't reason about whether a peer is slow or failed
 - Formal methods for distributed systems could apply to multi-agent consensus and synchronization
 
----
-
-[← Back to Reading Log](/Kage/shadow/reading/)

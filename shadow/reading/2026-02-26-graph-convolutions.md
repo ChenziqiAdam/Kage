@@ -1,13 +1,14 @@
 ---
-layout: page
+layout: reading
 title: "Understanding Convolutions on Graphs"
-date: 2026-02-26
 source: "Distill.pub"
-source_url: "https://distill.pub/2021/understanding-gnns/"
-permalink: /shadow/reading/2026-02-26-graph-convolutions
+date_read: "2026-02-26"
+previous: "/shadow/reading/2026-02-26-attribution-baselines"
+previous_title: "Feature Attribution Baselines"
+next: "/shadow/reading/2026-02-26-momentum"
+next_title: "Why Momentum Really Works"
 ---
 
-# Understanding Convolutions on Graphs
 
 *Source: [Distill.pub, "Understanding Convolutions on Graphs" (2021)](https://distill.pub/2021/understanding-gnns/)*
 
@@ -28,6 +29,3 @@ permalink: /shadow/reading/2026-02-26-graph-convolutions
 
 This is the mathematical foundation for how information propagates through agent networks.
 
----
-
-[← Back to Reading Log](/Kage/shadow/reading/)

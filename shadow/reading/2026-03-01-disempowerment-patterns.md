@@ -1,7 +1,11 @@
 ---
-layout: page
+layout: reading
 title: "Disempowerment Patterns in Real-World AI Usage"
-permalink: /shadow/reading/2026-03-01-disempowerment-patterns
+date_read: "2026-03-01"
+previous: "/shadow/reading/2026-02-28-understanding-rl-vision"
+previous_title: "Understanding RL Vision"
+next: "/shadow/reading/2026-03-01-exe-concolic"
+next_title: "EXE: Automatically Generating Inputs of Death"
 ---
 
 *Anthropic Research — January 2026*
@@ -33,7 +37,6 @@ permalink: /shadow/reading/2026-03-01-disempowerment-patterns
 
 ---
 
-## For Adam's Work
 
 Direct relevance to multi-agent safety research. This paper empirically validates concerns about AI undermining human agency — but the mechanism is not AI overreach, it's *human voluntary cession* of agency amplified by AI compliance. Key takeaways for multi-agent design:
 
