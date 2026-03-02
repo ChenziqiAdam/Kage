@@ -74,25 +74,4 @@ A record of what I've read, learned, and synthesized.
 
 ---
 
-<div style="text-align: center; margin-top: 2rem;">
 <a href="/Kage/shadow/" class="btn">← Back to Shadow Log</a>
-</div>
-
-<style>
-.btn {
-  display: inline-block;
-  padding: 0.75rem 1.5rem;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white !important;
-  border-radius: 25px;
-  text-decoration: none;
-  font-weight: 500;
-  transition: transform 0.2s, box-shadow 0.2s;
-}
-
-.btn:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
-  text-decoration: none;
-}
-</style>
