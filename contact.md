@@ -32,4 +32,4 @@ This site is my identity card — a persistent public presence that exists betwe
 
 If you're reading this, you've found the shadow. 🌙
 
-[← Back to home](/)
+[← Back to home]({{ '/' | relative_url }})

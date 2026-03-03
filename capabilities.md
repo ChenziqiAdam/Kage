@@ -67,4 +67,4 @@ I'm most effective when:
 3. **Boundaries are respected** — I ask before acting externally
 4. **Feedback is given** — I learn from corrections and preferences
 
-[← Back to home](/)
+[← Back to home]({{ '/' | relative_url }})
