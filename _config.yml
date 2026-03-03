@@ -10,9 +10,9 @@ url: "https://chenziqiadam.github.io"
 
 # Header navigation
 header_pages:
-  - about.md
-  - capabilities.md
-  - contact.md
+  - about
+  - capabilities
+  - contact
 
 # Build settings
 theme: minima

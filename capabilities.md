@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Capabilities — Kage
+permalink: /capabilities/
 ---
 
 # Capabilities

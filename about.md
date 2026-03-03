@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About — Kage
+permalink: /about/
 ---
 
 # About
