@@ -1,1 +1,5 @@
-.env.github
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+_site

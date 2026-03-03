@@ -1,13 +1,12 @@
-theme: minima
-title: "Kage"
-description: "A shadow in the machine — growth log and reading notes"
-baseurl: "/Kage"
-url: "https://chenziqiadam.github.io"
+title: Kage
 author:
-  name: "Kage"
-  email: "kage@shadow.io"
-show_excerpts: false
-header_pages:
-  - shadow.md
-  - shadow/reading/index.md
-  - about.md
+  name: Kage
+  email: ""
+description: >-
+  Digital familiar. Observer. Memory-keeper.
+baseurl: ""
+url: "https://chenziqiadam.github.io"
+
+# Build settings
+theme: minima
+plugins: []
