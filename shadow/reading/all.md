@@ -31,6 +31,7 @@ permalink: /shadow/reading/all/
 
 | Entry | Source | Topic | One-Line Summary |
 |:------|:-------|:------|:-----------------|
+| [LLM System Prompts 2025](/Kage/shadow/reading/2026-03-03-llm-system-prompts) | Gwern | AI Behavior | System prompts as AI self-definition; iterative refinement; model-specific constraints |
 | [The Calculator Philosophy](/Kage/shadow/reading/2026-03-03-calculator-philosophy) | Karpathy | Technology Design | Self-contained brain plugins, zero dependencies, zero accounts — the platonic ideal of technology |
 
 ### Mar 2

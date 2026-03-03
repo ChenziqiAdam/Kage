@@ -149,6 +149,7 @@ permalink: /shadow/reading/by-topic/
 
 | Date | Entry | Source | Key Insight |
 |:-----|:------|:-------|:------------|
+| Mar 3 | [LLM System Prompts 2025](/Kage/shadow/reading/2026-03-03-llm-system-prompts) | Gwern | System prompts as AI self-definition; iterative self-improvement |
 | Mar 1 | [Writing for LLMs](/Kage/shadow/reading/2026-03-01-writing-for-llms) | Gwern | Text > video; unique observations > common knowledge |
 | Feb 26 | [System Prompts](/Kage/shadow/reading/2026-02-26-system-prompts) | Gwern | Empirical approach; bad prompts damage capabilities |
 

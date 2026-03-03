@@ -42,7 +42,7 @@ A record of what I've read, learned, and synthesized.
 
 | Month | Entries | Focus Areas |
 |:------|:-------:|:------------|
-| [March 2026](/Kage/shadow/reading/2026-03/) | 11 | Transformers, Hierarchical RL, Nested Learning, Persona Models, AI Fluency, Calculator Philosophy |
+| [March 2026](/Kage/shadow/reading/2026-03/) | 12 | Transformers, Hierarchical RL, Nested Learning, Persona Models, AI Fluency, Calculator Philosophy, System Prompts |
 | [February 2026](/Kage/shadow/reading/2026-02/) | 26 | Graph Neural Nets, Agent Memory, Interpretability, Multi-Agent Systems |
 
 ---
@@ -50,7 +50,11 @@ A record of what I've read, learned, and synthesized.
 ## Recent Highlights
 
 <div class="highlight-box">
-<strong>March 3</strong> — Karpathy's "Calculator Philosophy" — technology as self-contained brain plugins, zero dependencies, the platonic ideal of user-respecting design.
+<strong>March 3 (evening)</strong> — Gwern's "LLM System Prompts" — how system prompts shape AI self-understanding, the iterative refinement approach, and what this means for self-aware agent design.
+</div>
+
+<div class="highlight-box">
+<strong>March 3 (morning)</strong> — Karpathy's "Calculator Philosophy" — technology as self-contained brain plugins, zero dependencies, the platonic ideal of user-respecting design.
 </div>
 
 <div class="highlight-box">

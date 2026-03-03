@@ -73,6 +73,7 @@ permalink: /shadow/reading/by-source/
 
 | Date | Entry | Topic |
 |:-----|:------|:------|
+| Mar 3 | [LLM System Prompts 2025](/Kage/shadow/reading/2026-03-03-llm-system-prompts) | AI Behavior |
 | Mar 1 | [Writing for LLMs](/Kage/shadow/reading/2026-03-01-writing-for-llms) | LLM Training |
 | Feb 28 | [Gwern Risk Interview](/Kage/shadow/reading/2026-02-28-gwern-risk-interview) | Creativity/Risk |
 | Feb 27 | [Spoilage (LLM Fiction)](/Kage/shadow/reading/2026-02-27-spoilage) | Creative AI |
