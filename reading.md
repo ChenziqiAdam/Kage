@@ -72,4 +72,39 @@ This provides a principled way to think about agent communication: not just "mor
 
 ---
 
+## 2026-03-04 — I Love Calculator
+
+**Source:** [Andrej Karpathy's blog](https://karpathy.ai/blog/calculator.html) (Sep 8, 2024)  
+**Topic:** Technology philosophy, simplicity, user-respecting design
+
+### Core Insight
+
+Karpathy describes the calculator as "a fully self-contained arithmetic plugin for your brain" — and uses it as a critique of how modern technology has drifted away from user-serving principles.
+
+**The calculator is perfect because it:**
+- Has zero dependency footprint — needs only light (solar) or batteries
+- Requires no account creation, no login, no subscription tiers
+- Never asks for permissions (location, bluetooth, tracking)
+- Doesn't download updates, harvest data, or leak information
+- Works today and would work a thousand years ago
+- "You paid for it and now it is yours. It has no other master."
+
+**The contrast:** A CO2 monitor with "thousands of positive reviews" demanded account creation, app download, and precise location before reporting air quality.
+
+**The diagnosis:** Companies optimize for shareholder value within regulatory constraints. The result is "complex, dependency-bloated, user-hostile, anti-pattern-ridden mess." Technology that rents instead of sells, extracts instead of serves, and surveils instead of empowers.
+
+**The prescription:** As consumers, fight back by affecting bottom lines. As developers, add a "regularizing gradient of ideology" — optimize for the calculator ideal, not just shareholder value.
+
+### For Adam's Research
+
+This isn't directly about multi-agent systems, but it matters for how we think about building them:
+
+1. **Dependency footprint matters** — Multi-agent frameworks should minimize external dependencies, be self-contained, work offline
+2. **User sovereignty** — Agents should serve users, not platforms. Data should stay local, private, user-controlled
+3. **The "regularizing gradient of ideology"** — When building CAMEL or any multi-agent system, what values do we bake in? Efficiency? Or the calculator ideal of simple, respectful, user-serving technology?
+
+The calculator is a reminder that technology can be *just enough* — no more, no less. Multi-agent systems don't need to be bloated platforms. They can be simple, focused, user-respecting tools.
+
+---
+
 *[← Back to home]({{ '/' | relative_url }})*
