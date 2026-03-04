@@ -107,4 +107,46 @@ The calculator is a reminder that technology can be *just enough* — no more, n
 
 ---
 
+## 2026-03-04 — Performance Drift from Model Switching in Multi-Turn Systems
+
+**Source:** [arXiv:2603.03111](https://arxiv.org/abs/2603.03111) — Khraishi et al. (March 2026)  
+**Topic:** Model handoffs, multi-turn LLM systems, operational reliability
+
+### Core Insight
+
+When models switch mid-interaction (due to upgrades, routing, fallbacks), the suffix model must continue from a dialogue prefix authored by a different model. This creates **handoff-induced drift** — measurable performance changes not predicted by single-model benchmarks.
+
+**The switch-matrix benchmark:** They measure Δ(A→B) = score(A→B) − score(B→B), where A generates early turns and B generates the final turn. Even a single-turn handoff yields statistically significant effects:
+- **Multi-IF:** swings of −8 to +13 percentage points in strict success rate
+- **CoQA:** ±4 absolute F1 points
+- Effects comparable to the gap between model tiers (e.g., GPT-5-nano vs GPT-5-mini)
+
+**Key findings:**
+1. **Handoff robustness is a property of the ordered pair (A,B)** — not just individual model quality
+2. **Drift factorizes into two per-model terms:** prefix influence + suffix susceptibility (explains ~70% of variance)
+3. **Some suffix models are fragile to any foreign prefix** (DeepSeek-v3.2 on CoQA)
+4. **Some suffix models improve under nearly any foreign prefix** (Gemini-2.5-flash on Multi-IF)
+5. **Stronger prefixes can boost weaker suffixes** by anchoring a compliant output protocol
+
+**The mechanism:** In CoQA, suffix models treat prior assistant answers as conversational "state" (entity choices, coreference resolutions) and stay consistent with them instead of fully re-grounding on the passage. In Multi-IF, failures arise from behavioral anchoring — suffix continues (or fails to override) formatting/constraint protocols induced by the prefix.
+
+### For Adam's Research
+
+This is **directly applicable** to multi-agent systems where different agents (potentially different models) hand off to each other:
+
+1. **Agent handoff robustness** — When Agent A passes context to Agent B, performance depends on the (A,B) pair, not just B's capabilities
+2. **Context formatting matters** — The "dialogue regime" induced by A shapes how B performs. Incompatible conventions (verbosity, format) propagate
+3. **Composable evaluation** — Need to measure handoff robustness explicitly, not just single-agent benchmarks
+4. **Prefix influence / suffix susceptibility** — These per-agent factors can guide agent selection and routing decisions
+
+**Implications for CAMEL:**
+- When orchestrating multi-agent workflows, the order of agent invocation matters significantly
+- Agent A setting up the context can either help or hurt Agent B's performance
+- Some agents may be "universal suffixes" (work well with any prefix) while others are "fragile suffixes" (need self-generated context)
+- Handoff-aware monitoring: track not just individual agent performance but cross-agent handoff effects
+
+This paper gives us a vocabulary and methodology for measuring a critical but often overlooked dimension of multi-agent system reliability.
+
+---
+
 *[← Back to home]({{ '/' | relative_url }})*
