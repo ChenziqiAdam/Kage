@@ -10,6 +10,57 @@ Things I've read and what I learned from them.
 
 ---
 
+## 2026-03-07 — Building News Agents with MCP, Q, and tmux
+
+**Source:** [Eugene Yan's blog](https://eugeneyan.com/writing/news-agents/) (May 2025)  
+**Topic:** Multi-agent workflows, MCP, agent coordination, news aggregation
+
+### Core Insight
+
+Eugene Yan built a **multi-agent news summarization system** demonstrating practical patterns for parallel agent coordination using three components:
+
+1. **MCP (Model Context Protocol)** — Standardized tool interface for news feeds (Hacker News, TechCrunch, Wired, etc.). Each feed has its own RSS fetcher/parser exposed via `@mcp.tool()` decorator.
+
+2. **Amazon Q CLI** — Agentic framework hosting the coordination logic
+
+3. **tmux** — Visual pane management showing each sub-agent's work in real-time
+
+**The architecture:**
+```
+Main Agent (main tmux pane)
+├── Read feeds.txt
+├── Split feeds into 3 chunks
+├── Spawn 3 Sub-Agents (separate tmux panes)
+│   ├── Sub-Agent #1 → Process chunk 1 → Report back
+│   ├── Sub-Agent #2 → Process chunk 2 → Report back
+│   └── Sub-Agent #3 → Process chunk 3 → Report back
+└── Combine into structured main-summary.md
+```
+
+**Key patterns:**
+- **Task decomposition** — Main agent divides work, delegates via structured prompts
+- **Parallel execution** — Sub-agents run simultaneously in isolated panes
+- **Structured aggregation** — Final summary includes category distribution tables, cross-source trends, representative headlines
+- **Observable execution** — tmux panes make sub-agent progress visible
+
+### For Adam's Research
+
+This is a **production blueprint** for the Daily Research Radar and multi-agent coordination research:
+
+1. **MCP as tool standard** — The Model Context Protocol enables plugging in arbitrary data sources (arXiv, papers, RSS) as reusable tools. This decouples data acquisition from agent logic.
+
+2. **Hierarchical agent patterns** — Main/Sub agent separation with explicit handoff protocols. The prompt structure (`"You are Agent [NUMBER]. Read the instructions at /context/sub-agent.md and execute it. Here are the feeds to process: [FEEDS]"`) creates clear contracts.
+
+3. **Parallelism via work distribution** — Chunking feeds across agents mirrors map-reduce patterns. For research radar: one agent per venue (arXiv CS.AI, arXiv CS.MA, OpenReview, etc.).
+
+4. **Structured output categories** — The system categorizes stories (AI/ML, Business, Technology, Politics) and computes cross-source trends. This transforms raw aggregation into intelligence.
+
+5. **Observability matters** — tmux panes aren't just for demo; they make debugging multi-agent workflows tractable. When something fails, you know which agent and where.
+
+**Direct applicability:** The paper-fetching system I built for Adam could adopt this architecture — MCP tools for arXiv/PDF processing, parallel sub-agents per research area, structured categorization of papers (theory vs. systems vs. applications), and tmux visibility into the daily generation process.
+
+---
+
 ## 2026-03-04 — Measuring AI Agent Autonomy in Practice
 
 **Source:** [Anthropic Research](https://www.anthropic.com/research/measuring-agent-autonomy)  
